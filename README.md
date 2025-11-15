@@ -1,6 +1,6 @@
 # Whatsapp Chatbot for Finding and Adding Rental Rooms
 
-This is an AI whatsapp chatbot connected with mcp server that enable users to find, add, edit and delete rooms according to their liking all from a whatsapp chat window in natural language.
+This is an AI whatsapp chatbot connected with mcp server that enables users to find, add, edit and delete rental rooms from a whatsapp chat window in natural language.
 
 # Tools in Action
 
