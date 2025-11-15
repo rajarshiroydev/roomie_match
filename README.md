@@ -10,9 +10,9 @@ This is an AI whatsapp chatbot connected with mcp server that enable users to fi
 4. Deleting Room
 
 <img src="images/finding_room.jpeg" width="45%" />
-<img src="images/finding_room_voice.jpeg" height = "587.5" width="45%" /> 
+<img src="images/finding_room_voice.jpeg" width="45%" /> 
 <br>
-<img src="images/finding_room_hinglish.jpeg" height = "591" width="45%" />
+<img src="images/finding_room_hinglish.jpeg" width="45%" />
 <img src="images/deleting_room.png" width="45%" />
 
 # Trying the app yourself
