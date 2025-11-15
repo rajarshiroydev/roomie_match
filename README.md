@@ -2,19 +2,18 @@
 
 This is an AI whatsapp chatbot connected with mcp server that enable users to find, add, edit and delete rooms according to their liking all from a whatsapp chat window in natural language.
 
-# Tool in Action
+# Tools in Action
 
-### Finding rooms
+1. Finding Rooms
+2. Finding Rooms via Voice
+3. Finding Rooms in Hinglish
+4. Deleting Room
 
-![Finding Rooms](images/finding_room.jpeg "Finding Rooms")
-
-### Finding rooms in hinglish
-
-![Finding Rooms Hinglish](images/finding_room_hinglish.jpeg "Finding Rooms Hinglish")
-
-### Finding rooms via voice
-
-![Finding Rooms Voice](images/finding_room_voice.jpeg "Finding Rooms Voice")
+<img src="images/finding_room.jpeg" width="45%" />
+<img src="images/finding_room_voice.jpeg" height = "587.5" width="45%" /> 
+<br>
+<img src="images/finding_room_hinglish.jpeg" height = "591" width="45%" />
+<img src="images/deleting_room.png" width="45%" />
 
 # Trying the app yourself
 
